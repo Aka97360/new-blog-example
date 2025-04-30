@@ -1,7 +1,7 @@
 
 ---
-layout: post
-title: My First Jekyll Post
+layout:post
+title:My First Jekyll Post
 tags: first markdown example
 categories: demo
 ---
