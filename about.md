@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Abofut
 ---
 
 Some Markdown content describing your site.
